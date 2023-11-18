@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+.red_text{
+    color: #F50103;
+}
+.red_background{
+    background-color: #F50103;
+}
+.orange_background{
+    background-color: #F55529;
+}
+.orange_text{
+    color: #F55529 !important;
+}
